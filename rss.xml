@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[RedefineCosmeticSurgeryStudio]]></title>
         <description><![CDATA[RedefineCosmeticSurgeryStudio]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/redefinecosmeticsurgerystudio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 06:09:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 13 May 2016 06:09:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/redefinecosmeticsurgerystudio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/310f829f-ccc0-40b6-882b-1969ae0b3db1.jpg">]]></description>
+            <link>https://thegrid.ai/redefinecosmeticsurgerystudio/the-benefits-of-removing-excess-fat-can-be-enormous-literal/index.html</link>
+            <guid isPermaLink="false">3d4e6c87-180c-4f63-b123-6e4a6caae816</guid>
+            <pubDate>Fri, 13 May 2016 06:09:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p> Breast </p>]]></description>
-            <link>undefinedbreast/index.html</link>
+            <link>https://thegrid.ai/redefinecosmeticsurgerystudio/breast/index.html</link>
             <guid isPermaLink="false">764a141d-af68-4824-9060-732e3608c3cf</guid>
             <pubDate>Fri, 13 May 2016 06:09:22 GMT</pubDate>
         </item>
